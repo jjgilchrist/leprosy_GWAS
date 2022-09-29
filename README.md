@@ -15,8 +15,8 @@ Leprosy is a chronic infection of the skin and peripheral nerves caused by *Myco
 
 **Overview of repository**
 * Figure folders: contains R script and source data to reproduce each main and supplementary Figure from the manuscript.
-* Leprosy association analysis: contains scripts and example genotype, phenotype and covariate data to illustrate association analysis and meta-analysis. Association analysis was performed using SNPTEST v2.5.1: [Marchini J, *et al*. "A new multipoint method
-for genome-wide association studies by imputation of genotypes." *Nature Genetics.* 2009.](https://doi.org/10.1038/ng2088) Meta-analysis was performed using bingwa v2.0: [Malaria Genomic Epidemiology Network. "A novel locus of resistance to severe malaria in a region of ancient balancing selection." *Nature.* 2015.](https://doi.org/10.1038/nature15390)
+* Leprosy association analysis: contains scripts and genotype/phenotype data to perform association analysis and meta-analysis to reproduce the study's main findings. Association analysis was performed using SNPTEST v2.5.6: [Marchini J, *et al*. "A new multipoint method
+for genome-wide association studies by imputation of genotypes." *Nature Genetics.* 2009.](https://doi.org/10.1038/ng2088) Meta-analysis was performed using bingwa v2.0.6: [Malaria Genomic Epidemiology Network. "A novel locus of resistance to severe malaria in a region of ancient balancing selection." *Nature.* 2015.](https://doi.org/10.1038/nature15390)
 
 **Data availability and sources**
 Complete GWAS summary statistics are available through the NHGRI-EBI GWAS Catalog (https://www.ebi.ac.uk/gwas/downloads/summary-statistics; accession codes: Malawi, GCST90129399; Mali, GCST90129400; meta-analysis, GCST90129401). Patient level genotype and phenotype data for additional MalariaGEN control samples (Mali) are available are available via the European Genome-Phenome Archive, with accession code EGAS00001001311.
