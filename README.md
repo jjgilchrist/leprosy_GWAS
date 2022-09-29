@@ -2,7 +2,7 @@
 
 **Genome-wide association study of leprosy in Malawi and Mali.** (PLoS Pathogens, 2022)
 
-https://www.medrxiv.org/content/10.1101/2022.01.31.22270046v1
+https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010312
 
 Code and source data for GWAS of leprosy in Malawi and Mali.
 
